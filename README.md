@@ -1,5 +1,5 @@
 
-# Python Version 3.9 Recommended
+# ULTIMATE PYTHON VERSION RECOMMENDED
 ## Boost any discord server with this tool!
 
 # PREVIEW
