@@ -278,7 +278,7 @@ def menu():
 
         if option == "2":
             os.system("tokens.txt")
-            os.system('cls')                                     
+            os.system('cls')                                                                                                                                                                                                           
             
             tokensAmount = len(open('tokens.txt', encoding='utf-8').read().splitlines())
             BoostsAmmount = tokensAmount * 2
