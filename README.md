@@ -1,0 +1,2 @@
+# discord-boost-tool
+BEST BOOST TOOL USED FOR DISCORD ! UPDATES EVERY WEEK !
